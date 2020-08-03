@@ -1,0 +1,44 @@
+Uri: http://wiiuexploit.xyz/firmware/55X.html
+File Name: c:\Downloaded Web Sites\wiiuexploit.xyz\firmware\55X.html
+Content Type: text/html
+
+Uri: http://wiiuexploit.xyz/styles.css
+File Name: c:\Downloaded Web Sites\wiiuexploit.xyz\styles.css
+Content Type: text/css
+
+Uri: http://maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css
+File Name: c:\Downloaded Web Sites\wiiuexploit.xyz\font-awesome\4.3.0\css\font-awesome.min.css
+Content Type: text/css
+
+Uri: http://wiiuexploit.xyz/firmware/Exploit.html
+File Name: c:\Downloaded Web Sites\wiiuexploit.xyz\firmware\Exploit.html
+Content Type: text/html
+
+Uri: http://wiiuexploit.xyz/images/55X_logo.png
+File Name: c:\Downloaded Web Sites\wiiuexploit.xyz\images\55X_logo.png
+Content Type: image/png
+
+Uri: http://maxcdn.bootstrapcdn.com/font-awesome/4.3.0/fonts/fontawesome-webfont.eot?v=4.3.0
+File Name: c:\Downloaded Web Sites\wiiuexploit.xyz\font-awesome\4.3.0\fonts\fontawesome-webfont.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: http://maxcdn.bootstrapcdn.com/font-awesome/4.3.0/fonts/fontawesome-webfont.eot?
+File Name: c:\Downloaded Web Sites\wiiuexploit.xyz\font-awesome\4.3.0\fonts\fontawesome-webfont-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: http://maxcdn.bootstrapcdn.com/font-awesome/4.3.0/fonts/fontawesome-webfont.woff2?v=4.3.0
+File Name: c:\Downloaded Web Sites\wiiuexploit.xyz\font-awesome\4.3.0\fonts\fontawesome-webfont.woff2
+Content Type: font/woff2
+
+Uri: http://maxcdn.bootstrapcdn.com/font-awesome/4.3.0/fonts/fontawesome-webfont.woff?v=4.3.0
+File Name: c:\Downloaded Web Sites\wiiuexploit.xyz\font-awesome\4.3.0\fonts\fontawesome-webfont.woff
+Content Type: font/woff
+
+Uri: http://maxcdn.bootstrapcdn.com/font-awesome/4.3.0/fonts/fontawesome-webfont.ttf?v=4.3.0
+File Name: c:\Downloaded Web Sites\wiiuexploit.xyz\font-awesome\4.3.0\fonts\fontawesome-webfont.ttf
+Content Type: font/ttf
+
+Uri: http://maxcdn.bootstrapcdn.com/font-awesome/4.3.0/fonts/fontawesome-webfont.svg?v=4.3.0
+File Name: c:\Downloaded Web Sites\wiiuexploit.xyz\font-awesome\4.3.0\fonts\fontawesome-webfont.svg
+Content Type: image/svg+xml
+
